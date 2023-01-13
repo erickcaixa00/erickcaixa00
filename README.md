@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickcaixa00
 - 👀 I’m interested in ... estágio
-- 🌱 I’m currently learning ... linguagem java 
+- 🌱 I’m currently learning ... linguagem python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (11)941506391
 
